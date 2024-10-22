@@ -3,7 +3,6 @@
 <ul>
   <li>👩🏻‍💻 Desenvolvedora web fullstack jr</li>
   <li>🎓 Bacharelanda em Sistemas de Informação</li>
-  <li>💼 Estagiária de TI na Câmara Municipal de Parnamirim/RN</li>
 </ul>
 
 ##
