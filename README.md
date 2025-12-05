@@ -2,7 +2,8 @@
 
 <ul>
   <li>👩🏻‍💻 Desenvolvedora web fullstack jr</li>
-  <li>🎓 Bacharelanda em Sistemas de Informação</li>
+  <li>🎓 Bacharel em Sistemas de Informação</li>
+  <li>💻 Desenvolvedora na Secretaria Municipal de Tributação de Parnamirim/RN</li>
 </ul>
 
 ##
